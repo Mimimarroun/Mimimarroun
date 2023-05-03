@@ -1,5 +1,4 @@
-hey <3;I'm+from+Morocco;I'm+Currently+an+ALX+Student🤓;Welcome!)
-
+hey <3;I'm from Morocco;
 
 <h2>✨ meriem marroun👨🏻‍💻✨</h2>
 
@@ -8,7 +7,7 @@ hey <3;I'm+from+Morocco;I'm+Currently+an+ALX+Student🤓;Welcome!)
 <p>I'm a software engineering student currently pursuing a degree in ALX program.
  
 <!--Graph-->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vhelaa1&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mimimarroun&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
 <!--Total Contributions--> 
  <p align="center">
